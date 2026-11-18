@@ -10,7 +10,8 @@
   "version": "1.0.0",
   "programmingLanguage": {
     "@type": "ComputerLanguage",
-    "name": "Python"
+    "name": "Python",
+    "version": "3.11"
   },
   "author": [
     {
