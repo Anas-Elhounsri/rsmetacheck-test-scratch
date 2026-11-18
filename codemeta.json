@@ -1,0 +1,27 @@
+{
+  "@context": "https://w3id.org/codemeta/3.0",
+  "@type": "SoftwareSourceCode",
+  "name": "rsmetacheck-test-scratch",
+  "description": "Test fixture for the rsmetacheck-bot monitor",
+  "identifier": "https://github.com/Anas-Elhounsri/rsmetacheck-test-scratch",
+  "codeRepository": "https://github.com/Anas-Elhounsri/rsmetacheck-test-scratch",
+  "readme": "https://github.com/Anas-Elhounsri/rsmetacheck-test-scratch/blob/main/README.md",
+  "license": "https://spdx.org/licenses/MIT",
+  "version": "1.0.0",
+  "programmingLanguage": {
+    "@type": "ComputerLanguage",
+    "name": "Python"
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "givenName": "Anas",
+      "familyName": "El Hounsri",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "OEG"
+      }
+    }
+  ],
+  "dateModified": "2026-11-18"
+}
